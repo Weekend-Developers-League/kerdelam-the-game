@@ -1,2 +1,1 @@
-# kerdelam-the-game
-Kerdelam : Opération Grand Ménage !
+# KERDELAM FIGHTERS - THE GAME
